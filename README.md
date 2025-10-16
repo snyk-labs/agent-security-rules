@@ -2,7 +2,7 @@
 
 **TL;DR:** Threat-driven rules that aims to make AI-generated code **secure by default**. Small, actionable, and enforced right in your IDE/agent.
 
-**Disclaimer:** This is part of a defence-in-depth approach and does not guarantee secure code.
+**Disclaimer:** Due to the non-deterministic nature of AI generated code using these rules does not guarantee secure code. Generated code should be tested and validated for quality.
 
 ## What
 
